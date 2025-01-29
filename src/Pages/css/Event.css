@@ -1,0 +1,8 @@
+body {
+        
+    background-image: linear-gradient(to bottom right, rgb(10, 66, 25), rgb(255, 213, 0));
+    min-height: 100vh;
+}
+.gar {
+    background-image: linear-gradient(to top left, rgb(255, 245, 245), rgb(134, 123, 123));
+}
