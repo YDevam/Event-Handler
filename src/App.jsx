@@ -1,10 +1,11 @@
-import Event from "./Pages/EventHandlers";
+import Event from "./Pages/Event";
 import "./Pages/css/Event.css"
 
 const App = () => {
   return (
     <>
       <Event />
+
     </>
   )
 }
